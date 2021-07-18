@@ -24,6 +24,7 @@ f       collateral_request
 T       new_limit_order
 
 Enter a valid message type:
+
 ```
 
 If the user selects one of message types:
